@@ -1,0 +1,3 @@
+- Implement the next fruit, grapes. You unlock grapes when autoclicker 
+  hits 50 or 100 or maybe when the player get a certain amount of points.
+- Maybe make a better background that emulates https://corndog.io/
