@@ -1,6 +1,5 @@
 import pygame
 import os
-print(os.getcwd())
 import random
 from image_button import Button
 import bg
