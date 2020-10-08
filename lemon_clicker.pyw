@@ -1,5 +1,4 @@
 import pygame
-import os
 import random
 from image_button import Button
 import bg
